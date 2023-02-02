@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "author": "yoshi",
+      "title": "Opening Party",
+      "body": "Why do we use it?\n It is a long established fact that will be distracted after 10 seconds"
+    },
+    {
+      "title": "My New Blog",
+      "body": "The quick brown fox jumps over the lazy dog. The rain in Spain falls mainly on the plain. The quick onyx goblin jumps over the lazy dwarf. How vexingly quick daft zebras jump!\"\n\nThis text contains all the letters of the English alphabet and it's often used as a placeholder text.\nLet me know if you need something else or any modification.",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Chat Blog",
+      "body": "The sky above the port was the color of television, tuned to a dead channel. All this happened, more or less. The war began in the early morning of a spring day, with a bright sun and a clear sky. The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it.\"\n\nThis text is a combination of sentences taken from different books and it's not meant to convey any particular meaning. Is there anything else you would like me to do for you?",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
+}
